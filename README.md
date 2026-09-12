@@ -39,3 +39,6 @@ Setup:
 
 8) Now login back to application, and you should be able to use it :)
 9) Enjoy!
+
+10) First Unzip passwd : aws
+11) 
